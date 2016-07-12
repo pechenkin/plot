@@ -1,0 +1,1 @@
+select READ_LOGICAL_BLOCKS from $$$SYSINFO;
